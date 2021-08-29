@@ -1,0 +1,19 @@
+.content{
+    margin-left:120px !important;
+    padding:20px;
+    background-color:white;
+    color: black;
+}
+
+.menu-container {
+    position: absolute;
+    top: 64px;
+    bottom: 40px;
+    left: 0;
+    right: 0;
+    background: rgb(216, 216, 216);
+  }
+
+.menu-container i {
+    padding-right: 10px;
+}

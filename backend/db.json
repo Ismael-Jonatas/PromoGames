@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "nome": "GTA Saandreas",
+      "preco": "100.00",
+      "id": 1
+    },
+    {
+      "nome": "Risk of Rain 2",
+      "preco": "60.00",
+      "id": 2
+    },
+    {
+      "nome": "Bloons TD",
+      "preco": "30.00",
+      "id": 3
+    },
+    {
+      "nome": "watch dogs",
+      "preco": "30.00",
+      "id": 5
+    },
+    {
+      "nome": "The Elder Scrolls V Skyrim",
+      "preco": "93.00",
+      "id": 6
+    },
+    {
+      "nome": "The Sims 4",
+      "preco": "25.00",
+      "id": 7
+    },
+    {
+      "nome": "Super Mario",
+      "preco": "0.00",
+      "id": 8
+    }
+  ]
+}

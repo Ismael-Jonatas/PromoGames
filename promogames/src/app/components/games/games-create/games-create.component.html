@@ -1,0 +1,19 @@
+
+<mat-card>
+    <mat-card-title>Novo Game</mat-card-title>
+    <form action="">
+        <mat-form-field>
+            <input matInput placeholder="Nome" [(ngModel)]="game.nome" name="nome">
+        </mat-form-field>
+
+        <mat-form-field>
+            <input matInput placeholder="Preço (R$)" [(ngModel)]="game.preco" name="preco">
+        </mat-form-field>
+
+        
+    </form>
+    <button mat-raised-button (click)="createGames()" color="primary" >Salvar</button>
+    <button mat-raised-button (click)="cancelGames()">Cancelar</button>
+</mat-card>
+
+

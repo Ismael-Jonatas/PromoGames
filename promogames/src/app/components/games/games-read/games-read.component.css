@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+
+}
+
+.div-table{
+    margin-top: 20px;
+}
+
+i.edit{
+color: white;
+padding-right: 10px;
+}
+i.delete{
+color: white;
+padding-left: 10px
+
+}
+
+i.delete:hover {
+    cursor:pointer;
+}
